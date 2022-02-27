@@ -1,0 +1,3 @@
+This static website is hosted on the InterPlanetary File System or [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) via [Fleek](https://fleek.co/hosting/). It makes use of the Hugo framework. I also use an [Ethereum Name Service](https://app.ens.domains/name/vikasnegi.eth/details) domain to point to this site. It is the first time that I have built a web3 based webpage. Needless to say, I am super excited to explore what this technology has to offer.
+
+Feel free to explore the other tabs on this site, and share some feedback. I would also be happy to connect via LinkedIn. In case you wish to try out something similar, here is an excellent [blog](https://dri.es/my-first-web3-webpage) post with detailed steps. 
