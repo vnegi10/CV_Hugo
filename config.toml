@@ -12,7 +12,7 @@ theme = "anatole"
 title = "Vikas Negi"
 author = "Vikas Negi"
 description = "Hello, welcome to my personal site powered by Web 3.0!"
-#profilePicture = "VNEG_pic.jpg"
+profilePicture = "VNEG_pic.jpg"
 
 summarylength = 10
 enableEmoji = true
