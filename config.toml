@@ -1,6 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en"
+relativeUrls = true
 #title = "Website of Vikas Negi"
 
 # Theme as git submodule
