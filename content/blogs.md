@@ -1,4 +1,4 @@
-Here are links to the blogs that I have published on medium:
+Here are links to the blog posts that I have published on medium:
 
 - [**Are Your Playlists Groovy Enough?** - Let’s find out by using Spotify’s public API along with Julia](https://towardsdatascience.com/are-your-playlists-groovy-enough-7809faaf9c33?source=friends_link&sk=e027ea4a77b5bb56745191d2f261401a)
 

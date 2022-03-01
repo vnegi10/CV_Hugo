@@ -67,28 +67,28 @@ url = "mailto:vikas.negi10@gmail.com"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/home/"
+  url = "/"
 
   [[menu.main]]
   name = "CV"
   identifier = "CV"
-  weight = 100
+  weight = 200
   url = "/cv/"
 
   [[menu.main]]
   name = "Blogs"
-  weight = 200
+  weight = 300
   identifier = "blogs"
   url = "/blogs/"
 
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 400
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
-  name = "Resources"
+  name = "Literature"
   weight = 500
-  identifier = "resources"
-  url = "/resources/"
+  identifier = "literature"
+  url = "/literature/"
