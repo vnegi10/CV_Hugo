@@ -39,7 +39,19 @@
       <guid>/home/</guid>
       
         <description>This static website is hosted on the InterPlanetary File System or IPFS via Fleek. It makes use of the Hugo framework. I also use an Ethereum Name Service domain to point to this site. It is the first time that I have built a web3 based webpage. Needless to say, I am super excited to explore what this technology has to offer.
-Feel free to explore the other tabs on this site, and share some feedback.</description>
+Feel free to visit the other tabs on this site, and share some feedback.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      
+        <description>Julia I use Julia for most of my coding projects. In case you are interested to learn more, here are some links to get you started:
+ Julia in VS Code Introduction to Computational Thinking Types in Julia Dictionaries/Sets in Julia Example of data analysis and visualization using a Pluto notebook Data Science in Julia for Hackers Developing Julia Packages  Useful packages Notebooks  Pluto.jl IJulia.jl  Data analysis and visualization  DataFrames.</description>
       
     </item>
     
@@ -51,17 +63,6 @@ Feel free to explore the other tabs on this site, and share some feedback.</desc
       <guid>/about/</guid>
       
         <description>I currently work as a Metrology Design Engineer at ASML in the Netherlands. I love coding, and my language of choice is Julia. Besides that, I occasionally tinker with my Raspberry Pi. My other hobbies include listening to podcasts (big fan of Lex Fridman) during long walks, running and watching new shows/documentaries on Netflix. I am also a proud owner of a custom built PC and a Xbox One S. Whenever time permits, I try to learn more about Web 3.</description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      
-        <description></description>
       
     </item>
     
