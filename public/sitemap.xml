@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/blogs/</loc>
     <priority>0</priority>
@@ -10,10 +11,7 @@
     <loc>/cv/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/home/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>/resources/</loc>
+    <loc>/literature/</loc>
     <priority>0</priority>
   </url><url>
     <loc>/about/</loc>
