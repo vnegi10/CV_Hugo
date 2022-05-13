@@ -38,6 +38,7 @@ also part of the general registry:
 
 - [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
+- [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
 
 ## Web 3.0 
 

@@ -1,5 +1,7 @@
 Here are links to the blog posts that I have published on medium:
 
+- [**Blockchain Analytics using Julia** - Let’s parse some blocks and find out what really goes in there](https://medium.com/geekculture/blockchain-analytics-using-julia-7bf76124a8f2)
+
 - [**Are Your Playlists Groovy Enough?** - Let’s find out by using Spotify’s public API along with Julia](https://towardsdatascience.com/are-your-playlists-groovy-enough-7809faaf9c33?source=friends_link&sk=e027ea4a77b5bb56745191d2f261401a)
 
 - [**Examining Developer and Community Metrics for Cryptocurrencies** - Harness the power of interactive Pluto notebooks](https://medium.com/@vikas.negi10/examining-developer-and-community-metrics-for-cryptocurrencies-4404cc5531aa?source=friends_link&sk=f69a49fd88c4a53aae3659268cef88f8)
