@@ -1,20 +1,31 @@
-## SKILLS/KEYWORDS
+## SKILLS / KEYWORDS
 - Julia, MATLAB, Python 
-- Functional data analysis, Data visualization, FN/SW design and testing
+- Data analysis and visualization, Software design and testing
 - Applied Physics, Algorithms, Modelling, Code development
+- Blockchain analytics
+
+## OPEN SOURCE
+- [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
+- [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
+- [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
+- [Spotify.jl](https://github.com/vnegi10/Spotify.jl)
+- [BTC_blockchain_analytics](https://github.com/vnegi10/BTC_blockchain_analytics)
+- [Spotify_data_analysis](https://github.com/vnegi10/Spotify_data_analysis)
+- [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis)
 
 ## EXPERIENCE
 
-##### Functional Design Engineer at ASML | 01/2019 – Present
-- Coordinated functional investigations leading to key Metro Expose SW deliveries in the
-following projects: XT:1460 TFH, XT:400L TSH (More than Moore) and XT:860N
-- Developed new design documents for critical SW components, supervised timely reviews, and
+##### Metrology Design Engineer at ASML | 01/2019 – Present
+- Coordinated functional investigations leading to key software deliveries for ASML's flagship DUV
+lithography systems
+- Wrote new design documents for essential software components, supervised timely reviews, and
 oversaw stakeholder management
-- Improved cross-functional competence by building knowledge transfer documents,
-participating in key design reviews
+- Improved cross-functional competence by building knowledge transfer documents and participating
+in design reviews
 - Independently supported various critical escalations with customers around the world
 - Involved in coaching junior engineers, supervised team participation in multiple
-hackathons on a DUV Expose train level
+hackathons on a department level
+- Developed and maintained various Julia packages for the ASML community
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
 - Computational modeling combined with in-house optical experiments to study phase 
@@ -36,8 +47,8 @@ computational physicists and geologists
 ## EDUCATION
 
 ##### Ph.D. | 09/2018 | Technische Universiteit Eindhoven
-- Thesis: **Exploring the process-structure-property relationship of organic solar cells
-using high performance computer simulations**
+- Thesis: [**Exploring the process-structure-property relationship of organic solar cells
+using high performance computer simulations**](https://research.tue.nl/en/publications/exploring-the-process-structure-property-relationship-of-organic-)
 
 ##### BS-MS in Physics | 06/2014 | IISER Pune, India
 - Completed a 5-year dual-degree programme in Physics, received a **distinction with a CGPA

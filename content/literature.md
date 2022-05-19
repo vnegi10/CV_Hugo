@@ -23,6 +23,7 @@ interested to learn more, here are some links to get you started:
 - [Query.jl](https://github.com/queryverse/Query.jl)
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl)
 - [Dash.jl](https://github.com/plotly/Dash.jl)
+- [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl)
 
 #### Package development
 - [Revise.jl](https://timholy.github.io/Revise.jl/stable/)
@@ -32,12 +33,24 @@ interested to learn more, here are some links to get you started:
 #### APIs
 - [Spotify.jl](https://github.com/kwehmeyer/Spotify.jl) (also a contributor)
 - [Twitter.jl](https://github.com/randyzwitch/Twitter.jl)
+- [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl)
+
+#### Performance
+- [ThreadsX.jl](https://github.com/tkf/ThreadsX.jl)
+- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl)
+- [Memoization.jl](https://github.com/marius311/Memoization.jl)
+
+#### Parsing
+- [YAML.jl](https://github.com/JuliaData/YAML.jl)
+- [JSON.jl](https://github.com/JuliaIO/JSON.jl)
+- [CodecZlib.jl](https://github.com/JuliaIO/CodecZlib.jl)
 
 I have developed, and currently maintain the following open source packages, which are 
 also part of the general registry:
 
 - [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
+- [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
 
 ## Web 3.0 
 
