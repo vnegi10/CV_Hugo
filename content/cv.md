@@ -9,6 +9,9 @@
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
 - [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
 - [Spotify.jl](https://github.com/vnegi10/Spotify.jl)
+- [BTC_blockchain_analytics](https://github.com/vnegi10/BTC_blockchain_analytics)
+- [Spotify_data_analysis](https://github.com/vnegi10/Spotify_data_analysis)
+- [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis)
 
 ## EXPERIENCE
 
