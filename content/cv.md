@@ -20,24 +20,24 @@
 ##### Metrology Design Engineer at ASML | 01/2019 – Present
 - Coordinated several functional investigations leading to key software deliveries for ASML's flagship DUV
 lithography systems, thus contributing to 2022 net sales of €21.2 billion, gross margin of 50.5%, and 
-net income of €5.6 billion
+net income of €5.6 billion.
 - Wrote new design documents for essential software components, supervised timely reviews, and
-oversaw stakeholder management
+oversaw stakeholder management.
 - Improved cross-functional competence by building knowledge transfer documents and participating
 in design reviews
 - Independently supported various critical escalations (machine issues) with customers in Singapore, 
-Taiwan, Japan and France 
+Taiwan, Japan and France. 
 - Involved in coaching junior engineers, supervised team participation in multiple
-hackathons organized on a department level
+hackathons organized on a department level.
 - Actively contributed to internal software migration to GitHub, improved coding best practices for
-Julia and MATLAB within the team
+Julia and MATLAB within the team.
 - Developed and maintained various internal Julia data analysis packages for the ASML community
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
 - Computational modeling combined with in-house optical experiments to study phase 
 separation in organic thin films during spin-coating
 - Established and coordinated external collaboration with research groups in Germany,
-Russia and United States resulting in three publications
+Russia and United States resulting in three publications.
 - Proven track record in computational physics with multiple publications in peer-reviewed journals
 - Demonstrated excellent communication skills through talks and posters at various 
 international conferences in Europe (ICSM 2014, Turku; HOPV 2018, Benidorm) and Asia (ICSM 2016, Guangzhou)
@@ -46,9 +46,15 @@ international conferences in Europe (ICSM 2014, Turku; HOPV 2018, Benidorm) and 
 - Master’s Thesis: Used Density Functional Theory to study methanation on a cobalt catalyst
 during Fischer-Tropsch synthesis
 - Worked in a multi-disciplinary and cross-functional team of material scientists,
-computational physicists and geologists
+computational physicists and geologists.
 - Added significant value to computational R&D at Shell, received the highest grade for
- master’s thesis based on this work
+ master’s thesis based on this work.
+
+##### Leibniz Institute for Solid State and Materials Research, Dresden, Germany | 05/2012 - 07/2012
+- Received a DAAD scholarship to travel to Germany, and perform cutting-edge experimental research
+in a world-leading laboratory.
+- Learned a novel spectroscopy technique involving high-frequency high-magnetic field electron spin 
+resonance in a short period of two months   
 
 ## EDUCATION
 
@@ -64,8 +70,8 @@ atomic hydrogen on Cobalt (0001) surface**](http://dr.iiserpune.ac.in:8080/xmlui
 
 ## FELLOWSHIPS
 
-- INSPIRE - Dept. of Science and Technology, Government of India | 2009-2014 
-- DAAD - Deutscher Akademischer Austauschdienst | 2012
+- [INSPIRE](https://online-inspire.gov.in/) - Dept. of Science and Technology, Government of India | 2009-2014 
+- [DAAD](https://www.daad.de/en/) - Deutscher Akademischer Austauschdienst | 2012
 
 ## PUBLISHED PAPERS
 
