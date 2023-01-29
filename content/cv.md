@@ -81,6 +81,7 @@ atomic hydrogen on Cobalt (0001) surface**](http://dr.iiserpune.ac.in:8080/xmlui
 
 ## LEADERSHIP POSITIONS
 
+- Helped organize the ASML Metro Expose Innovation Marketplace in 2022
 - Maintainer and key knowledge holder of various software tools within the ASML Metrology
 department
 - Instructor for Computational Materials Science, 1st year Masters, TU/e. (2016-2017) 

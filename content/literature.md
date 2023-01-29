@@ -24,11 +24,16 @@ interested to learn more, here are some links to get you started:
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl)
 - [Dash.jl](https://github.com/plotly/Dash.jl)
 - [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl)
+- [Plots.jl](https://github.com/JuliaPlots/Plots.jl)
+- [PlotlyJS.jl](https://github.com/JuliaPlots/PlotlyJS.jl)
 
 #### Package development
 - [Revise.jl](https://timholy.github.io/Revise.jl/stable/)
 - [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
 - [DocumenterTools.jl](https://github.com/JuliaDocs/DocumenterTools.jl)
+
+#### Testing
+- [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl)
 
 #### APIs
 - [Spotify.jl](https://github.com/kwehmeyer/Spotify.jl) (also a contributor)
