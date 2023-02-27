@@ -1,10 +1,11 @@
 ## SKILLS / KEYWORDS
-- Julia, MATLAB, Python 
+- Julia, MATLAB, Python
 - Data analysis and visualization, Software design and testing
 - Applied Physics, Algorithms, Modelling, Code development
 - Blockchain analytics
 
 ## OPEN SOURCE
+- [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
 - [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
 - [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)

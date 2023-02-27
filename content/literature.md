@@ -26,6 +26,7 @@ interested to learn more, here are some links to get you started:
 - [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl)
 - [Plots.jl](https://github.com/JuliaPlots/Plots.jl)
 - [PlotlyJS.jl](https://github.com/JuliaPlots/PlotlyJS.jl)
+- [PrettyTables.jl](https://github.com/ronisbr/PrettyTables.jl)
 
 #### Package development
 - [Revise.jl](https://timholy.github.io/Revise.jl/stable/)
@@ -53,7 +54,8 @@ interested to learn more, here are some links to get you started:
 I have developed, and currently maintain the following open source packages, which are 
 also part of the general registry:
 
-- [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
+- [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
+- [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl)
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
 - [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
 
