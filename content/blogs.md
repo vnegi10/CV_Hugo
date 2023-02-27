@@ -1,4 +1,4 @@
-Here are links to the blog posts that I have published on medium:
+Here are links to the blog posts that I have published on Medium:
 
 - [**Is Your Hard Drive Going to Fail Soon?** - Let’s gain some insight from
 Backblaze’s ~ 235,000 disk drive data](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1?source=friends_link&sk=dafeefd236d6973b76f661868ec20bed)
