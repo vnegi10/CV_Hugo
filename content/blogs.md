@@ -1,6 +1,12 @@
 Here are links to the blog posts that I have published on medium:
 
-- [**When will the Ethereum “Merge” Happen?** - Make your own prediction in a few 
+- [**Is Your Hard Drive Going to Fail Soon?** - Let’s gain some insight from
+Backblaze’s ~ 235,000 disk drive data](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1?source=friends_link&sk=dafeefd236d6973b76f661868ec20bed)
+
+- [**A Guide to Building your First Decentralized Website in 2023** - Has web 3.0
+really become mainstream?](https://medium.com/geekculture/a-guide-to-building-your-first-decentralized-website-in-2023-d21c41128e07?source=friends_link&sk=b0003e2a02a9a145e9dbd8a2658a60b1)
+
+- [**When will the Ethereum “Merge” Happen?** - Make your own prediction in a few
 lines of Julia code](https://medium.com/geekculture/when-will-the-ethereum-merge-happen-58b80babdf16?source=friends_link&sk=10357cccb3b651335a2fa6e0e47f2bea)
 
 - [**Visualizing Developer Activity via the GitHub API** - Can we somehow measure 
