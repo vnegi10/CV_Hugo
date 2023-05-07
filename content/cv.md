@@ -21,18 +21,18 @@
 
 ##### Metrology Design Engineer at ASML | 01/2019 – Present
 - Coordinated several functional investigations leading to key software deliveries for ASML's flagship DUV
-lithography systems, thus contributing to 2022 net sales of €21.2 billion, gross margin of 50.5%, and 
+lithography systems, thus contributing to 2022 net sales of €21.2 billion, gross margin of 50.5%, and
 net income of €5.6 billion.
 - Wrote new design documents for essential software components, supervised timely reviews, and
 oversaw stakeholder management.
 - Improved cross-functional competence by building knowledge transfer documents and participating
 in design reviews
-- Independently supported various critical escalations (machine issues) with customers in Singapore, 
-Taiwan, Japan and France. 
+- Independently supported various critical escalations (machine issues) with customers in Singapore,
+Taiwan, Japan and France.
 - Involved in coaching junior engineers, supervised team participation in multiple
 hackathons organized on a department level.
-- Actively contributed to internal software migration to GitHub, improved coding best practices for
-Julia and MATLAB within the team.
+- Designed strategy for internal software migration to GitHub, set up CI/CD using
+GitHub Actions and Artifactory, code quality monitoring using TIOBE TiCS TQI.
 - Developed and maintained various internal Julia data analysis packages for the ASML community
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
