@@ -1,6 +1,7 @@
 ## SKILLS / KEYWORDS
 - Julia, MATLAB, Python
 - Data analysis and visualization, Software design and testing
+- Unit testing, CI/CD, GitHub Actions, Artifactory, TIOBE TiCS
 - Applied Physics, Algorithms, Modelling, Code development
 - Blockchain analytics
 

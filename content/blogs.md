@@ -35,3 +35,9 @@ market data](https://towardsdatascience.com/interactive-crypto-dashboard-powered
 
 - [**Visualizing COVID-19 Data using Julia** - Exploring a powerful alternative to
 Python and R](https://towardsdatascience.com/visualizing-covid-19-data-using-julia-7731a524cf49?source=friends_link&sk=c3d999fa44b29bdfb5a9713b3a05ee06)
+
+I started writing on Hashnode as well:
+
+- [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matter in your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
+
+- [**Benchmarking code in Julia**](https://vnegi.hashnode.dev/benchmarking-code-in-julia)
