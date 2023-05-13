@@ -19,21 +19,24 @@
 
 ## EXPERIENCE
 
-##### Metrology Design Engineer at ASML | 01/2019 – Present
-- Coordinated several functional investigations leading to key software deliveries for ASML's flagship DUV
-lithography systems, thus contributing to 2022 net sales of €21.2 billion, gross margin of 50.5%, and
-net income of €5.6 billion.
-- Wrote new design documents for essential software components, supervised timely reviews, and
-oversaw stakeholder management.
-- Improved cross-functional competence by building knowledge transfer documents and participating
-in design reviews
-- Independently supported various critical escalations (machine issues) with customers in Singapore,
-Taiwan, Japan and France.
+##### Senior Metrology Design Engineer at ASML | 01/2019 – Present
+- Coordinated several projects leading to key software deliveries for ASML's flagship DUV
+lithography systems, thus contributing to [2022 net sales](https://www.asml.com/en/investors/annual-report/2022)
+of €21.2 billion, gross margin of 50.5%, and net income of €5.6 billion.
+- Designed framework for internal software migration to GitHub, set up CI/CD using
+GitHub Actions and Artifactory, code quality monitoring using [TIOBE TiCS TQI.](https://www.tiobe.com/products/tics/)
+- Responsible for group's MATLAB architecture roadmap, wrote new design documents for
+essential software components, supervised timely reviews, and oversaw stakeholder
+management.
+- Improved cross-functional competence by building knowledge transfer documents and
+participating in design reviews
+- Independently supported various critical escalations (machine issues) with customers in
+Singapore, Taiwan, Japan and France.
 - Involved in coaching junior engineers, supervised team participation in multiple
-hackathons organized on a department level.
-- Designed strategy for internal software migration to GitHub, set up CI/CD using
-GitHub Actions and Artifactory, code quality monitoring using TIOBE TiCS TQI.
-- Developed and maintained various internal Julia data analysis packages for the ASML community
+hackathons, part of organization committee for 'DUV Innovation Marketplace' on a department
+level.
+- Developed and maintained various internal Julia data analysis packages for the ASML
+community
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
 - Computational modeling combined with in-house optical experiments to study phase 
@@ -50,13 +53,12 @@ during Fischer-Tropsch synthesis
 - Worked in a multi-disciplinary and cross-functional team of material scientists,
 computational physicists and geologists.
 - Added significant value to computational R&D at Shell, received the highest grade for
- master’s thesis based on this work.
+master’s thesis based on this work.
 
 ##### Leibniz Institute for Solid State and Materials Research, Dresden, Germany | 05/2012 - 07/2012
-- Received a DAAD scholarship to travel to Germany, and perform cutting-edge experimental research
-in a world-leading laboratory.
-- Learned a novel spectroscopy technique involving high-frequency high-magnetic field electron spin 
-resonance in a short period of two months   
+- Received a DAAD scholarship to travel to Germany, and perform cutting-edge experimental
+research in a world-leading [laboratory](https://www.ifw-dresden.de/).
+- Learned a novel spectroscopy technique involving high-frequency high-magnetic field electron spin resonance in a short period of two months   
 
 ## EDUCATION
 
