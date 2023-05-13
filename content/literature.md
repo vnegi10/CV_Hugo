@@ -51,6 +51,9 @@ interested to learn more, here are some links to get you started:
 - [JSON.jl](https://github.com/JuliaIO/JSON.jl)
 - [CodecZlib.jl](https://github.com/JuliaIO/CodecZlib.jl)
 
+#### Filesystem
+- [ScanDir.jl](https://github.com/yha/ScanDir.jl)
+
 I have developed, and currently maintain the following open source packages, which are 
 also part of the general registry:
 
@@ -58,6 +61,8 @@ also part of the general registry:
 - [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl)
 - [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
 - [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
+
+---
 
 ## Web 3.0 
 
@@ -72,3 +77,21 @@ I have linked an ENS domain to this site. Here are some links for more informati
 
 #### IPFS
 - [What is IPFS?](https://docs.ipfs.io/concepts/what-is-ipfs/)
+
+---
+
+## Blockchain
+
+#### Industrial research blogs
+- [Ethereum's economics and staking model](https://usa.visa.com/solutions/crypto/cryptoeconomics.html)
+- [The Merge: What to expect from a new era of Ethereum](https://usa.visa.com/solutions/crypto/the-merge-ethereum.html)
+
+---
+
+## Decentralized technologies
+
+#### Storage
+- [STORJ](https://www.storj.io/)
+
+#### Digital documents
+- [LegitDoc](https://legitdoc.com/)
