@@ -43,3 +43,9 @@ I started writing on [Hashnode](https://vnegi.hashnode.dev/) as well:
 - [**Benchmarking code in Julia**](https://vnegi.hashnode.dev/benchmarking-code-in-julia)
 
 - [**The Path Not Taken** - A quick primer on dealing with file paths in Julia](https://vnegi.hashnode.dev/the-path-not-taken)
+
+- [**Learn SQL via the Command-Line Shell** - A fast and easy way to brush up your database
+skills](https://vnegi.hashnode.dev/learn-sql-via-the-command-line-shell)
+
+- [**Working with SQLite Database in Julia** - Let's learn how to read data from the most popular
+database in the world](https://vnegi.hashnode.dev/working-with-sqlite-database-in-julia)
