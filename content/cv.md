@@ -1,9 +1,9 @@
-## SKILLS / KEYWORDS
-- Julia, MATLAB, Python
+## SKILLS / KEY HIGHLIGHTS
+- Julia, MATLAB, Python, SQL
 - Data analysis and visualization, Software design and testing
 - Unit testing, CI/CD, GitHub Actions, Artifactory, TIOBE TiCS
 - Applied Physics, Algorithms, Modelling, Code development
-- Blockchain analytics
+- REST APIs, Blockchain analytics
 
 ## OPEN SOURCE
 - [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
