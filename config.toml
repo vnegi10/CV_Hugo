@@ -56,6 +56,11 @@ title = "Medium"
 url = "https://medium.com/@vikas.negi10"
 
 [[params.socialIcons]]
+icon = "fab fa-hashnode"
+title = "Hashnode"
+url = "https://vnegi.hashnode.dev/"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:vikas.negi10@gmail.com"
