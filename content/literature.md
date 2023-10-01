@@ -1,3 +1,24 @@
+## Style guides
+
+- [Blue: A Style Guide for Julia](https://github.com/invenia/BlueStyle)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [The Black Code Style](https://black.readthedocs.io/en/stable/the_black_code_style/current_style.html)
+- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+---
+
+## Selection of some interesting reads
+
+- [Understanding SQL: Getting Started with Window Functions](https://towardsdatascience.com/understanding-sql-getting-started-with-window-functions-287391b9cef5)
+- [I Switched from Notion to Obsidian — This Is How It Went](https://medium.com/@michaelswengel/i-switched-from-notion-to-obsidian-this-is-how-it-went-723cd47c1e84)
+- [Code Review Etiquette For The Modern Developer](https://levelup.gitconnected.com/code-review-etiquette-for-the-modern-developer-3fb5e1ad62d0)
+- [Leaving academia? Think twice before going into data or software.](https://medium.com/the-modern-scientist/leaving-academia-think-twice-before-going-into-data-or-software-3d48e6ae43c4)
+- [Github Templates: The Smarter Way to Formalize Pull Requests Among Development Teams](https://betterprogramming.pub/github-templates-the-smarter-way-to-formalize-pull-requests-among-development-teams-89f8d6a204f)
+- [Why OpenAI’s API Is More Expensive for Non-English Languages](https://towardsdatascience.com/why-openais-api-is-more-expensive-for-non-english-languages-553da4a1eecc)
+- [Real-Time Crowdedness Predictions for Train Travelers](https://towardsdatascience.com/real-time-crowdedness-predictions-for-train-travelers-a5a5d2858bed)
+
+---
+
 ## Julia
 
 I use [Julia](https://julialang.org/) for most of my coding projects. In case you are
@@ -35,6 +56,7 @@ interested to learn more, here are some links to get you started:
 
 #### Testing
 - [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl)
+- [ReTestItems.jl](https://github.com/JuliaTesting/ReTestItems.jl/tree/main)
 
 #### APIs
 - [Spotify.jl](https://github.com/kwehmeyer/Spotify.jl) (also a contributor)
@@ -54,7 +76,7 @@ interested to learn more, here are some links to get you started:
 #### Filesystem
 - [ScanDir.jl](https://github.com/yha/ScanDir.jl)
 
-I have developed, and currently maintain the following open source packages, which are 
+I have developed, and currently maintain the following open source packages, which are
 also part of the general registry:
 
 - [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
@@ -64,7 +86,7 @@ also part of the general registry:
 
 ---
 
-## Web 3.0 
+## Web 3.0
 
 #### Ethereum Name Service (ENS)
 I have linked an ENS domain to this site. Here are some links for more information:
