@@ -1,4 +1,31 @@
-Here are links to the blog posts that I have published on Medium:
+## Open-source packages
+- [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
+- [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
+- [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
+- [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
+- [Spotify.jl](https://github.com/vnegi10/Spotify.jl)
+- [BTC_blockchain_analytics](https://github.com/vnegi10/BTC_blockchain_analytics)
+- [Spotify_data_analysis](https://github.com/vnegi10/Spotify_data_analysis)
+- [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis) ([Talk at JuliaCon 2022](https://www.youtube.com/watch?v=4SokD3Om3kc))
+- [GitHub_data_analysis](https://github.com/vnegi10/GitHub_data_analysis)
+- [CoinGecko_API_analysis](https://github.com/vnegi10/CoinGecko_API_analysis)
+
+## Academic papers
+
+- [ACS Appl. Energy Mater. 2018, 1, 2, 725-735](https://pubs.acs.org/doi/10.1021/acsaem.7b00189)
+- [Macromol. Theory Simul. 2016, 25, 550–558](https://onlinelibrary.wiley.com/doi/abs/10.1002/mats.201600075)
+- [J. Polym. Sci. Part B: Polym. Phys. 2016, 54, 2448–2456](https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.24236)
+
+## Blog posts on [Medium](https://medium.com/@vikas.negi10)
+
+- [**Predicting Gas Consumption using Machine Learning in Julia** - A data-driven
+approach to combat the energy crisis](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf?source=friends_link&sk=e28cebb44fbebcbaa9dcda2d9cc66232)
+
+- [**Working with MS SQL Server in Julia** - Time to supercharge your data analysis
+workflow](https://towardsdatascience.com/working-with-ms-sql-server-in-julia-fc6fcd55d69a?source=friends_link&sk=9c7eeef5d1a4b78f7fe5f0cea84972b3)
+
+- [**A Simple Trick to Speed Up Reading CSV Files in Julia** - Let’s learn how to accelerate
+your data science workflow](https://medium.com/@vikas.negi10/a-simple-trick-to-speed-up-reading-csv-files-in-julia-749856a1ca4?source=friends_link&sk=762a057bf1aa768e4ea75a1eb28a3f5c)
 
 - [**Is Your Hard Drive Going to Fail Soon?** - Let’s gain some insight from
 Backblaze’s ~ 235,000 disk drive data](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1?source=friends_link&sk=dafeefd236d6973b76f661868ec20bed)
@@ -36,7 +63,7 @@ market data](https://towardsdatascience.com/interactive-crypto-dashboard-powered
 - [**Visualizing COVID-19 Data using Julia** - Exploring a powerful alternative to
 Python and R](https://towardsdatascience.com/visualizing-covid-19-data-using-julia-7731a524cf49?source=friends_link&sk=c3d999fa44b29bdfb5a9713b3a05ee06)
 
-I started writing on [Hashnode](https://vnegi.hashnode.dev/) as well:
+## Blog posts on [Hashnode](https://vnegi.hashnode.dev/)
 
 - [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matter in your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
 

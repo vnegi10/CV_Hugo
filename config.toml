@@ -76,10 +76,10 @@ url = "mailto:vikas.negi10@gmail.com"
   url = "/cv/"
 
   [[menu.main]]
-  name = "Blogs"
+  name = "Publications"
   weight = 300
-  identifier = "blogs"
-  url = "/blogs/"
+  identifier = "publications"
+  url = "/publications/"
 
   [[menu.main]]
   name = "About"

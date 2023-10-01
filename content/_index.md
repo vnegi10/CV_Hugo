@@ -1,4 +1,4 @@
-This static website is hosted on the **InterPlanetary File System** or 
+This static website is hosted on the **InterPlanetary File System** or
 [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) via [Fleek](https://fleek.co/hosting/).
 It makes use of the [Anatole](https://github.com/lxndrblz/anatole) theme in combination
 with the [Hugo framework](https://gohugo.io/). I also use an 

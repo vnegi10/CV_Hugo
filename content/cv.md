@@ -5,18 +5,6 @@
 - Applied Physics, Metrology, Algorithms, Modelling
 - Dashboards, REST APIs, Blockchain analytics
 
-## OPEN SOURCE
-- [WeatherReport.jl](https://github.com/vnegi10/WeatherReport.jl)
-- [CoinbaseProExchange.jl](https://github.com/vnegi10/CoinbaseProExchange.jl) 
-- [CryptoDashApp.jl](https://github.com/vnegi10/CryptoDashApp.jl)
-- [BitcoinRPC.jl](https://github.com/vnegi10/BitcoinRPC.jl)
-- [Spotify.jl](https://github.com/vnegi10/Spotify.jl)
-- [BTC_blockchain_analytics](https://github.com/vnegi10/BTC_blockchain_analytics)
-- [Spotify_data_analysis](https://github.com/vnegi10/Spotify_data_analysis)
-- [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis) ([Talk at JuliaCon 2022](https://www.youtube.com/watch?v=4SokD3Om3kc))
-- [GitHub_data_analysis](https://github.com/vnegi10/GitHub_data_analysis)
-- [CoinGecko_API_analysis](https://github.com/vnegi10/CoinGecko_API_analysis)
-
 ## EXPERIENCE
 
 ##### Senior Metrology Design Engineer and Architect at ASML | 01/2019 – Present
@@ -116,12 +104,6 @@ monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.ba
 ##### Predicting Gas Consumption using Machine Learning [blog](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf) [code](https://github.com/vnegi10/Thermostat_data_analysis)
 - Set up a HTTP server for accessing thermostat data using Docker
 - Built a simple linear regression model to predict home gas usage based on outside temperature
-
-## PUBLISHED PAPERS
-
-- [ACS Appl. Energy Mater. 2018, 1, 2, 725-735](https://pubs.acs.org/doi/10.1021/acsaem.7b00189)
-- [Macromol. Theory Simul. 2016, 25, 550–558](https://onlinelibrary.wiley.com/doi/abs/10.1002/mats.201600075) 
-- [J. Polym. Sci. Part B: Polym. Phys. 2016, 54, 2448–2456](https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.24236)
 
 ## LEADERSHIP POSITIONS
 
