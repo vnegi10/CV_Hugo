@@ -1,4 +1,4 @@
-## SKILLS / KEY HIGHLIGHTS
+## SKILLS / HIGHLIGHTS
 - Julia, MATLAB, Python, SQL, Bash
 - Data analysis and visualization, Software design and testing
 - CI/CD, GitHub Actions, Artifactory, TIOBE TiCS, Docker
@@ -52,6 +52,8 @@ master’s thesis based on this work.
 research in a world-class [laboratory](https://www.ifw-dresden.de/).
 - Learned a novel spectroscopy technique involving high-frequency high-magnetic field electron spin resonance in a short period of two months
 
+---
+
 ## EDUCATION
 
 ##### Ph.D. | 09/2018 | Molecular Materials and Nanosystems | Technische Universiteit Eindhoven
@@ -61,13 +63,15 @@ using high performance computer simulations**](https://research.tue.nl/en/public
 ##### BS-MS in Physics | 06/2014 | IISER Pune, India
 - Completed a 5-year dual-degree programme in Physics, received a **distinction with a CGPA
 of 9.2/10**
-- Thesis: [**Density functional theory based study of methanation in the presence of subsurface 
+- Thesis: [**Density functional theory based study of methanation in the presence of subsurface
 atomic hydrogen on Cobalt (0001) surface**](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/344)
 
 ## FELLOWSHIPS
 
-- [INSPIRE](https://online-inspire.gov.in/) - Dept. of Science and Technology, Government of India | 2009-2014 
+- [INSPIRE](https://online-inspire.gov.in/) - Dept. of Science and Technology, Government of India | 2009-2014
 - [DAAD](https://www.daad.de/en/) - Deutscher Akademischer Austauschdienst | 2012
+
+---
 
 ## SAMPLE DATA ANALYSIS/VISUALIZATION PROJECTS
 
@@ -90,10 +94,31 @@ packages within the Julia ecosystem.
 data recorded via a Samsung smartwatch.
 
 ##### Interactive Dashboard to Track Decentralized Asset Volume and Prices [blog](https://towardsdatascience.com/interactive-crypto-dashboard-powered-by-julia-fd6f60f23063) [code](https://github.com/vnegi10/CryptoDashApp.jl)
-- Developed an interactive browser-based dashboard to visualize asset prices, volume
-and activity (data from multiple sources) on major exchanges around the world.
+- Developed an interactive browser-based dashboard to visualize cryptocurrency
+asset prices, volume and activity (data from multiple sources) on major exchanges
+around the world.
+- Implemented analysis and visualization of various technical indicators such as
+cumulative and daily returns, MACD, linear regression, Bollinger bands etc.
 - Package has been registered in the Julia general registry (available to everyone
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
+
+##### CoinbaseProExchange.jl - A Julia wrapper for the Coinbase Pro API [code](https://github.com/vnegi10/CoinbaseProExchange.jl)
+- Built from scratch a new Julia package, that provides REST API access to both
+public/private endpoints of Coinbase Pro.
+- Data is securely fetched, cleaned and transformed into usable types such as
+a DataFrame, which allows for easy filtering, analysis and visualization.
+- Full CI using GitHub Actions and automatic [documentation](https://vnegi10.github.io/CoinbaseProExchange.jl/stable/)
+update using Documenter.jl
+
+##### BitcoinRPC.jl - A Julia interface to Bitcoin's JSON-RPC API [blog](https://medium.com/geekculture/connect-to-the-bitcoin-network-using-julia-418c76fed393) [code](https://github.com/vnegi10/BitcoinRPC.jl)
+- Developed from scratch a new Julia package, which interfaces with
+Bitcoin's JSON-RPC API accessible via a locally running node.
+- Implemented making requests in batch mode for faster performance
+while doing on-chain analytics
+- Implemented a caching mechanism to drastically speed-up repeated
+calls to the same function
+- Added visualization support for key blockchain metrics, faster
+plotting right within the Julia REPL.
 
 ##### Predicting Hard Drive Failure Rates from Backblaze’s 235,000 Disk Data [blog](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1) [code](https://github.com/vnegi10/HDD_test_data_analysis)
 - Performed cleaning, accumulation, analysis and visualization of [S.M.A.R.T](http://ntfs.com/disk-monitor-smart-attributes.htm)
@@ -104,12 +129,3 @@ monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.ba
 ##### Predicting Gas Consumption using Machine Learning [blog](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf) [code](https://github.com/vnegi10/Thermostat_data_analysis)
 - Set up a HTTP server for accessing thermostat data using Docker
 - Built a simple linear regression model to predict home gas usage based on outside temperature
-
-## LEADERSHIP POSITIONS
-
-- Helped organize the ASML Metro Expose Innovation Marketplace in 2022
-- Maintainer and key knowledge holder of various software tools within the ASML Metrology
-department
-- Instructor for Computational Materials Science, 1st year Masters, TU/e. (2016-2017)
-- Student team advisor, Solliance project in OGO Physics in Perspective, 3rd year Bachelors, TU/e. (2016-2017)
-- Developed and supervised simulation exercises, Computational Physics, 1st year Masters, TU/e. (2014-2015)
