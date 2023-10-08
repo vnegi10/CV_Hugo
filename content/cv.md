@@ -106,6 +106,16 @@ which allows for easy filtering, analysis and visualization.
 - Full CI using GitHub Actions and automatic [documentation](https://vnegi10.github.io/CoinbaseProExchange.jl/stable/)
 update using Documenter.jl
 
+##### BitcoinRPC.jl - A Julia interface to Bitcoin's JSON-RPC API [blog](https://medium.com/geekculture/connect-to-the-bitcoin-network-using-julia-418c76fed393) [code](https://github.com/vnegi10/BitcoinRPC.jl)
+- Developed from scratch a new Julia package, which interfaces with
+Bitcoin's JSON-RPC API accessible via a locally running node.
+- Implemented making requests in batch mode for faster performance
+while doing on-chain analytics
+- Implemented a caching mechanism to drastically speed-up repeated
+calls to the same function
+- Added visualization support for key blockchain metrics, faster
+plotting right within the Julia REPL.
+
 ##### Predicting Hard Drive Failure Rates from Backblaze’s 235,000 Disk Data [blog](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1) [code](https://github.com/vnegi10/HDD_test_data_analysis)
 - Performed cleaning, accumulation, analysis and visualization of [S.M.A.R.T](http://ntfs.com/disk-monitor-smart-attributes.htm)
 monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.backblaze.com/cloud-backup.html)
