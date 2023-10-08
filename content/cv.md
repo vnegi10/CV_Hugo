@@ -90,8 +90,11 @@ packages within the Julia ecosystem.
 data recorded via a Samsung smartwatch.
 
 ##### Interactive Dashboard to Track Decentralized Asset Volume and Prices [blog](https://towardsdatascience.com/interactive-crypto-dashboard-powered-by-julia-fd6f60f23063) [code](https://github.com/vnegi10/CryptoDashApp.jl)
-- Developed an interactive browser-based dashboard to visualize asset prices, volume
-and activity (data from multiple sources) on major exchanges around the world.
+- Developed an interactive browser-based dashboard to visualize cryptocurrency
+asset prices, volume and activity (data from multiple sources) on major exchanges
+around the world.
+- Implemented analysis and visualization of various technical indicators such as
+cumulative and daily returns, MACD, linear regression, Bollinger bands etc.
 - Package has been registered in the Julia general registry (available to everyone
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
 
