@@ -1,4 +1,4 @@
-## SKILLS / KEY HIGHLIGHTS
+## SKILLS / HIGHLIGHTS
 - Julia, MATLAB, Python, SQL, Bash
 - Data analysis and visualization, Software design and testing
 - CI/CD, GitHub Actions, Artifactory, TIOBE TiCS, Docker
