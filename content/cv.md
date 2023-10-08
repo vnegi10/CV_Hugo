@@ -95,6 +95,14 @@ and activity (data from multiple sources) on major exchanges around the world.
 - Package has been registered in the Julia general registry (available to everyone
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
 
+##### CoinbaseProExchange.jl - A Julia wrapper for the Coinbase Pro API [code](https://github.com/vnegi10/CoinbaseProExchange.jl)
+- Built from scratch a new Julia package, that provides API access to both public/private
+endpoints of Coinbase Pro.
+- Data is fetched, cleaned and transformed into usable types such as a DataFrame, which
+allows for easy filtering, analysis and visualization.
+- Full CI using GitHub Actions and automatic [documentation](https://vnegi10.github.io/CoinbaseProExchange.jl/stable/)
+update using Documenter.jl
+
 ##### Predicting Hard Drive Failure Rates from Backblaze’s 235,000 Disk Data [blog](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1) [code](https://github.com/vnegi10/HDD_test_data_analysis)
 - Performed cleaning, accumulation, analysis and visualization of [S.M.A.R.T](http://ntfs.com/disk-monitor-smart-attributes.htm)
 monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.backblaze.com/cloud-backup.html)
