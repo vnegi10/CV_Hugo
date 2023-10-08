@@ -99,10 +99,10 @@ cumulative and daily returns, MACD, linear regression, Bollinger bands etc.
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
 
 ##### CoinbaseProExchange.jl - A Julia wrapper for the Coinbase Pro API [code](https://github.com/vnegi10/CoinbaseProExchange.jl)
-- Built from scratch a new Julia package, that provides API access to both public/private
-endpoints of Coinbase Pro.
-- Data is fetched, cleaned and transformed into usable types such as a DataFrame, which
-allows for easy filtering, analysis and visualization.
+- Built from scratch a new Julia package, that provides REST API access to both
+public/private endpoints of Coinbase Pro.
+- Data is fetched, cleaned and transformed into usable types such as a DataFrame,
+which allows for easy filtering, analysis and visualization.
 - Full CI using GitHub Actions and automatic [documentation](https://vnegi10.github.io/CoinbaseProExchange.jl/stable/)
 update using Documenter.jl
 
