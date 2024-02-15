@@ -7,20 +7,14 @@
 
 ## EXPERIENCE
 
-##### Senior Metrology Design Engineer and Architect at ASML | 01/2019 – Present
-- *Coordinated* several projects leading to key *software deliveries* for ASML's flagship
-DUV lithography systems, thus contributing to [2022 net sales](https://www.asml.com/en/investors/annual-report/2022)
-of €21.2 billion, gross margin of 50.5%, and net income of €5.6 billion.
+##### Metrology Sub-Function Architect at ASML | 01/2023 – Present
 - *Designed* framework for internal software migration to GitHub, set up CI/CD using
 GitHub Actions and Artifactory, code quality monitoring using [TIOBE TiCS TQI.](https://www.tiobe.com/products/tics/)
 - *Responsible* for group's (~ 50 engineers) MATLAB architecture roadmap, wrote new design
 documents for essential software components, supervised timely reviews, and oversaw
 *stakeholder management.*
-- *Improved* cross-functional competence by building knowledge transfer documents and
-participating in design reviews
-- *Independently* supported various critical escalations (machine issues) via
-*efficient communication channels* with local teams and customers in multiple 
-time zones (Singapore, Taiwan, Japan and France)
+
+##### Senior Metrology Design Engineer at ASML | 01/2022 – 01/2023
 - *Performed* simulations and generated valuable insights using advanced data analysis
 techniques to highlight strength of lithography software packages to new customers, leading
 to *business growth* and generating *additional revenue* for ASML.
@@ -29,6 +23,16 @@ hackathons, part of organization committee for 'DUV Innovation Marketplace' on a
 level.
 - *Developed* and maintained various internal Julia data analysis and visualization
 packages for the ASML community
+
+##### Metrology Design Engineer at ASML | 01/2019 – 01/2022
+- *Coordinated* several projects leading to key *software deliveries* for ASML's flagship
+DUV lithography systems, thus contributing to [2022 net sales](https://www.asml.com/en/investors/annual-report/2022)
+of €21.2 billion, gross margin of 50.5%, and net income of €5.6 billion.
+- *Improved* cross-functional competence by building knowledge transfer documents and
+participating in design reviews
+- *Independently* supported various critical escalations (machine issues) via
+*efficient communication channels* with local teams and customers in multiple 
+time zones (Singapore, Taiwan, Japan and France)
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
 - *Performed* state of the art computational modeling combined with in-house optical
