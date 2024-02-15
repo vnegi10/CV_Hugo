@@ -108,6 +108,10 @@ I have linked an ENS domain to this site. Here are some links for more informati
 - [Ethereum's economics and staking model](https://usa.visa.com/solutions/crypto/cryptoeconomics.html)
 - [The Merge: What to expect from a new era of Ethereum](https://usa.visa.com/solutions/crypto/the-merge-ethereum.html)
 
+#### New and exciting projects
+- [Chia](https://www.chia.net/chia-farming/)
+  * [Farming calculator](https://xch.farm/)
+
 ---
 
 ## Decentralized technologies
@@ -117,3 +121,12 @@ I have linked an ENS domain to this site. Here are some links for more informati
 
 #### Digital documents
 - [LegitDoc](https://legitdoc.com/)
+
+#### Social network
+- [Farcaster](https://docs.farcaster.xyz/)
+
+---
+
+## APIs
+- [CoinGecko](https://www.coingecko.com/api/documentation)
+- [AlphaVantage](https://www.alphavantage.co/documentation/)
