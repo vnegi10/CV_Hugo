@@ -14,4 +14,5 @@ on Netflix. Chef's Table and Castlevania have been my favorites in recent times.
 
 I am a proud owner of a PC, Nintendo Switch and Xbox One S. On my PC, I last played the new
 Tomb Raider and Doom series. I also enjoy playing couch co-ops (Overcooked, Lovers in a
-Dangerous Spacetime, Death Squared, A Way Out etc.) along with my partner on the Xbox.
+Dangerous Spacetime, Death Squared, A Way Out etc.) along with my partner on the Xbox. These days,
+I can often be found slaying demons in Diablo 4.
