@@ -76,3 +76,7 @@ skills](https://vnegi.hashnode.dev/learn-sql-via-the-command-line-shell)
 
 - [**Working with SQLite Database in Julia** - Let's learn how to read data from the most popular
 database in the world](https://vnegi.hashnode.dev/working-with-sqlite-database-in-julia)
+
+## Blog posts on CoinGecko
+
+- [**How to Build an Interactive NFT Floor Price Tracker**](https://www.coingecko.com/learn/interactive-nft-price-tracker)
