@@ -9,6 +9,11 @@
 - [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis) ([Talk at JuliaCon 2022](https://www.youtube.com/watch?v=4SokD3Om3kc))
 - [GitHub_data_analysis](https://github.com/vnegi10/GitHub_data_analysis)
 - [CoinGecko_API_analysis](https://github.com/vnegi10/CoinGecko_API_analysis)
+- [Bonding_curve_data_analysis](https://github.com/vnegi10/Bonding_curve_data_analysis)
+- [Candlestick_pattern_analysis](https://github.com/vnegi10/Candlestick_pattern_analysis)
+- [ETH_blockchain_data_analysis](https://github.com/vnegi10/ETH_blockchain_data_analysis)
+- [Goodreads_data_analysis](https://github.com/vnegi10/Goodreads_data_analysis)
+- [Multimodal_astro_data_analysis](https://github.com/vnegi10/Multimodal_astro_data_analysis)
 
 ## Academic papers
 
