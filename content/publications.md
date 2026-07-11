@@ -9,6 +9,11 @@
 - [Health_data_analysis](https://github.com/vnegi10/Health_data_analysis) ([Talk at JuliaCon 2022](https://www.youtube.com/watch?v=4SokD3Om3kc))
 - [GitHub_data_analysis](https://github.com/vnegi10/GitHub_data_analysis)
 - [CoinGecko_API_analysis](https://github.com/vnegi10/CoinGecko_API_analysis)
+- [Bonding_curve_data_analysis](https://github.com/vnegi10/Bonding_curve_data_analysis)
+- [Candlestick_pattern_analysis](https://github.com/vnegi10/Candlestick_pattern_analysis)
+- [ETH_blockchain_data_analysis](https://github.com/vnegi10/ETH_blockchain_data_analysis)
+- [Goodreads_data_analysis](https://github.com/vnegi10/Goodreads_data_analysis)
+- [Multimodal_astro_data_analysis](https://github.com/vnegi10/Multimodal_astro_data_analysis)
 
 ## Academic papers
 
@@ -17,6 +22,12 @@
 - [J. Polym. Sci. Part B: Polym. Phys. 2016, 54, 2448–2456](https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.24236)
 
 ## Blog posts on [Medium](https://medium.com/@vikas.negi10)
+
+- [**Unleashing LLMs with Team Red: Your Guide to AMD-Powered Local AI** - Because your gaming GPU can do more than just crush frames](https://medium.com/data-science-collective/unleashing-llms-with-team-red-your-guide-to-amd-powered-local-ai-3be6ea745f0f)
+
+- [**Analyzing Nextcloud Server Logs using DuckDB** - Can data help us identify potential cyberattacks?](https://medium.com/data-science-collective/analyzing-nextcloud-server-logs-using-duckdb-f0d7fd6c68fd)
+
+- [**The One Billion Row Challenge in Julia** - What can data scientists learn should they choose to accept this mission?](https://medium.com/data-science/the-one-billion-row-challenge-in-julia-bdd19cde58d5)
 
 - [**Predicting Gas Consumption using Machine Learning in Julia** - A data-driven
 approach to combat the energy crisis](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf?source=friends_link&sk=e28cebb44fbebcbaa9dcda2d9cc66232)
@@ -42,7 +53,7 @@ open source love?](https://towardsdatascience.com/visualizing-developer-activity
 - [**Plotting in the Terminal -- An Unconventional Approach to Data Visualization** -
 Who knew Unicode plots could be so much fun?](https://medium.com/geekculture/plotting-in-the-terminal-an-unconventional-approach-to-data-visualization-dd36ec6515d0?source=friends_link&sk=aa85cceda81801a41f5f1514577c1f7e)
 
-- [**Connect to the Bitcoin Network using Julia** - A neat way to access real time
+- [**Connect to the Bitcoin Network using Julia** - A neat way to access real-time
 blockchain data](https://medium.com/geekculture/connect-to-the-bitcoin-network-using-julia-418c76fed393?source=friends_link&sk=fd38b824bc58f6b666c977b5dbbfb94d)
 
 - [**Blockchain Analytics using Julia** - Let’s parse some blocks and find out what
@@ -65,7 +76,7 @@ Python and R](https://towardsdatascience.com/visualizing-covid-19-data-using-jul
 
 ## Blog posts on [Hashnode](https://vnegi.hashnode.dev/)
 
-- [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matter in your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
+- [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matters into your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
 
 - [**Benchmarking code in Julia**](https://vnegi.hashnode.dev/benchmarking-code-in-julia)
 
@@ -80,3 +91,19 @@ database in the world](https://vnegi.hashnode.dev/working-with-sqlite-database-i
 ## Blog posts on CoinGecko
 
 - [**How to Build an Interactive NFT Floor Price Tracker**](https://www.coingecko.com/learn/interactive-nft-price-tracker)
+
+- [**Create a Crypto Portfolio Dashboard (Python Guide)**](https://www.coingecko.com/learn/crypto-portfolio-dashboard-python)
+
+- [**How to Build a Crypto Arbitrage Bot (Python Guide)**](https://www.coingecko.com/learn/crypto-arbitrage-bot-python)
+
+- [**How to Build a Crypto Trading Bot in Python**](https://www.coingecko.com/learn/python-trading-bot-automate-trades)
+
+- [**Algorithmic Trading with Python: How to Execute Trades on a DEX**](https://www.coingecko.com/learn/algorithmic-trading-python-execute-trades)
+
+- [**How to Export Crypto OHLC Chart Data: A Python, Google Sheets and Excel Guide**](https://www.coingecko.com/learn/download-crypto-ohlcv-data)
+
+- [**How to Automate Crypto Technical Analysis with Python**](https://www.coingecko.com/learn/automate-crypto-technical-analysis-python)
+
+- [**How to Get Bonding Curve Data from Memecoin Launchpads Using Python**](https://www.coingecko.com/learn/get-bonding-curve-data-from-memecoin-launchpads-using-python)
+
+- [**How to Build a Pump.fun Sniper Bot in Python**](https://www.coingecko.com/learn/how-to-build-pump-fun-sniper-bot-in-python)
