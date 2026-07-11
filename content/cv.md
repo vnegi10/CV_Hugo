@@ -1,6 +1,8 @@
 ## SKILLS / HIGHLIGHTS
-- Julia, MATLAB, Python, SQL, Bash
+- SQL, Python, Julia, MATLAB, Bash
+- DuckDB, Polars, PySpark
 - Data analysis and visualization, Software design and testing
+- Azure Data Factory, Azure DevOps, Databricks, Power BI
 - CI/CD, GitHub Actions, Artifactory, TIOBE TiCS, Docker
 - Applied Physics, Metrology, Algorithms, Modelling
 - Dashboards, REST APIs, Blockchain analytics
@@ -90,6 +92,14 @@ atomic hydrogen on Cobalt (0001) surface**](http://dr.iiserpune.ac.in:8080/xmlui
 
 ## SAMPLE DATA ANALYSIS/VISUALIZATION PROJECTS
 
+##### Analyzing Nextcloud Server Logs using DuckDB [blog](https://medium.com/data-science-collective/analyzing-nextcloud-server-logs-using-duckdb-f0d7fd6c68fd) [code](https://github.com/vnegi10/Nextcloud_log_analysis)
+- Authored a technical article demonstrating how to repair, ingest and analyse large
+Nextcloud JSON server logs using DuckDB, SQL, Python and Jupyter.
+- Developed queries to detect failed login attempts and trusted-domain errors, profile client
+devices and user agents, and identify potentially suspicious access patterns.
+- Enriched server logs with IP geolocation and ISP datasets using range-based SQL joins,
+completing the end-to-end analysis in approximately nine seconds.
+
 ##### Analysis of Music Streaming Data from Spotify [blog](https://towardsdatascience.com/are-your-playlists-groovy-enough-7809faaf9c33) [code](https://github.com/vnegi10/Spotify_data_analysis)
 - Contributed to the development of open-source [Spotify.jl](https://github.com/kwehmeyer/Spotify.jl),
 which is a Julia wrapper for the Spotify API.
@@ -105,8 +115,34 @@ packages within the Julia ecosystem.
 - Article published in Towards Data Science – a medium publication with over 600,000 followers.
 
 ##### Analyzing Health and Fitness Data [blog](https://towardsdatascience.com/analyze-your-health-and-fitness-data-using-julia-d6f4c3842b17) [code](https://github.com/vnegi10/Health_data_analysis)
-- Performed data cleaning, feature extraction, analysis and visualization of historical activity
-data recorded via a Samsung smartwatch.
+- Authored a technical article demonstrating an end-to-end health and fitness analytics
+workflow using Julia, Pluto.jl and raw data exported from Samsung Health.
+- Built a reproducible data-processing pipeline using CSV.jl, DataFrames.jl and Query.jl to
+clean, transform and interactively filter step, distance, active-time, heart-rate and
+elevation data.
+- Developed interactive VegaLite.jl visualisations to analyse activity trends, cumulative
+distance, weekday-versus-weekend behaviour, heart-rate distributions and relationships
+between steps, calories and active time.
+
+##### Blockchain Analytics using Julia [blog](https://medium.com/geekculture/blockchain-analytics-using-julia-7bf76124a8f2?source=friends_link&sk=997b3bdf59afcfaf9ea5a09b88708d59) [code](https://github.com/vnegi10/BTC_blockchain_analytics)
+- Wrote a technical article demonstrating how to parse and analyse the complete Bitcoin blockchain using Julia, BTCParser.jl and Pluto.jl notebooks.
+- Developed a data-processing workflow to extract block-level metrics including transaction counts, transferred value, mining difficulty, block creation times and miner rewards.
+- Created interactive visualisations to analyse historical Bitcoin network activity, average block times, transaction-fee trends and protocol halving events.
+
+##### How to Automate Crypto Technical Analysis with Python [blog](https://www.coingecko.com/learn/automate-crypto-technical-analysis-python) [code](https://github.com/vnegi10/Candlestick_pattern_analysis)
+- Published a technical tutorial on automating cryptocurrency technical analysis using Python, Pandas, Plotly and real-time market data from the CoinGecko API.
+- Built a reusable workflow to retrieve and transform historical OHLC price data, securely manage API access and generate interactive candlestick charts across multiple cryptocurrency and fiat pairs.
+- Implemented and visualised key indicators—including SMA, RSI, Bollinger Bands and MACD—along with programmatic detection of bullish-engulfing candlestick patterns.
+
+##### Predicting Hard Drive Failure Rates from Backblaze’s 235,000 Disk Data [blog](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1) [code](https://github.com/vnegi10/HDD_test_data_analysis)
+- Performed cleaning, accumulation, analysis and visualization of [S.M.A.R.T](http://ntfs.com/disk-monitor-smart-attributes.htm)
+monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.backblaze.com/cloud-backup.html)
+- Extracted key insights into correlation between certain S.M.A.R.T parameters and failed drives
+- Article published in Geek Culture – a medium publication with ~ 30,000 followers
+
+##### Predicting Gas Consumption using Machine Learning [blog](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf) [code](https://github.com/vnegi10/Thermostat_data_analysis)
+- Set up a HTTP server for accessing thermostat data using Docker
+- Built a simple linear regression model to predict home gas usage based on outside temperature
 
 ##### Interactive Dashboard to Track Decentralized Asset Volume and Prices [blog](https://towardsdatascience.com/interactive-crypto-dashboard-powered-by-julia-fd6f60f23063) [code](https://github.com/vnegi10/CryptoDashApp.jl)
 - Developed an interactive browser-based dashboard to visualize cryptocurrency
@@ -116,6 +152,15 @@ around the world.
 cumulative and daily returns, MACD, linear regression, Bollinger bands etc.
 - Package has been registered in the Julia general registry (available to everyone
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
+
+##### Create a Crypto Portfolio Dashboard (Python Guide) [blog](https://www.coingecko.com/learn/crypto-portfolio-dashboard-python) [code](https://github.com/vnegi10/Crypto-return-calculator)
+- Published a practical guide to building a cryptocurrency portfolio dashboard using Python,
+Observable Framework and historical market data from the CoinGecko API.
+- Developed a reusable data pipeline to calculate portfolio values, asset-level
+contributions, relative returns, seven- and thirty-day performance, and top-performing
+holdings.
+- Created interactive charts and date-based comparisons, with scheduled GitHub Actions 
+workflows securely refreshing and deploying the dashboard to GitHub Pages.
 
 ##### CoinbaseProExchange.jl - A Julia wrapper for the Coinbase Pro API [code](https://github.com/vnegi10/CoinbaseProExchange.jl)
 - Built from scratch a new Julia package, that provides REST API access to both
@@ -134,13 +179,3 @@ while doing on-chain analytics
 calls to the same function
 - Added visualization support for key blockchain metrics, faster
 plotting right within the Julia REPL.
-
-##### Predicting Hard Drive Failure Rates from Backblaze’s 235,000 Disk Data [blog](https://medium.com/geekculture/is-your-hard-drive-going-to-fail-soon-9ec9ae3fece1) [code](https://github.com/vnegi10/HDD_test_data_analysis)
-- Performed cleaning, accumulation, analysis and visualization of [S.M.A.R.T](http://ntfs.com/disk-monitor-smart-attributes.htm)
-monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.backblaze.com/cloud-backup.html)
-- Extracted key insights into correlation between certain S.M.A.R.T parameters and failed drives
-- Article published in Geek Culture – a medium publication with ~ 30,000 followers
-
-##### Predicting Gas Consumption using Machine Learning [blog](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf) [code](https://github.com/vnegi10/Thermostat_data_analysis)
-- Set up a HTTP server for accessing thermostat data using Docker
-- Built a simple linear regression model to predict home gas usage based on outside temperature

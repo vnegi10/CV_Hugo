@@ -18,6 +18,12 @@
 
 ## Blog posts on [Medium](https://medium.com/@vikas.negi10)
 
+- [**Unleashing LLMs with Team Red: Your Guide to AMD-Powered Local AI** - Because your gaming GPU can do more than just crush frames](https://medium.com/data-science-collective/unleashing-llms-with-team-red-your-guide-to-amd-powered-local-ai-3be6ea745f0f)
+
+- [**Analyzing Nextcloud Server Logs using DuckDB** - Can data help us identify potential cyberattacks?](https://medium.com/data-science-collective/analyzing-nextcloud-server-logs-using-duckdb-f0d7fd6c68fd)
+
+- [**The One Billion Row Challenge in Julia** - What can data scientists learn should they choose to accept this mission?](https://medium.com/data-science/the-one-billion-row-challenge-in-julia-bdd19cde58d5)
+
 - [**Predicting Gas Consumption using Machine Learning in Julia** - A data-driven
 approach to combat the energy crisis](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf?source=friends_link&sk=e28cebb44fbebcbaa9dcda2d9cc66232)
 
@@ -80,3 +86,19 @@ database in the world](https://vnegi.hashnode.dev/working-with-sqlite-database-i
 ## Blog posts on CoinGecko
 
 - [**How to Build an Interactive NFT Floor Price Tracker**](https://www.coingecko.com/learn/interactive-nft-price-tracker)
+
+- [**Create a Crypto Portfolio Dashboard (Python Guide)**](https://www.coingecko.com/learn/crypto-portfolio-dashboard-python)
+
+- [**How to Build a Crypto Arbitrage Bot (Python Guide)**](https://www.coingecko.com/learn/crypto-arbitrage-bot-python)
+
+- [**How to Build a Crypto Trading Bot in Python**](https://www.coingecko.com/learn/python-trading-bot-automate-trades)
+
+- [**Algorithmic Trading with Python: How to Execute Trades on a DEX**](https://www.coingecko.com/learn/algorithmic-trading-python-execute-trades)
+
+- [**How to Export Crypto OHLC Chart Data: A Python, Google Sheets and Excel Guide**](https://www.coingecko.com/learn/download-crypto-ohlcv-data)
+
+- [**How to Automate Crypto Technical Analysis with Python**](https://www.coingecko.com/learn/automate-crypto-technical-analysis-python)
+
+- [**How to Get Bonding Curve Data from Memecoin Launchpads Using Python**](https://www.coingecko.com/learn/get-bonding-curve-data-from-memecoin-launchpads-using-python)
+
+- [**How to Build a Pump.fun Sniper Bot in Python**](https://www.coingecko.com/learn/how-to-build-pump-fun-sniper-bot-in-python)
