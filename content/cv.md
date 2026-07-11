@@ -7,12 +7,23 @@
 
 ## EXPERIENCE
 
-##### Metrology Sub-Function Architect at ASML | 01/2023 – Present
+##### Senior Data Scientist at AkzoNobel | 04/2024 - Present
+- *Responsible* for the development of full-stack analytics solutions, including scalable
+data pipelines using Azure Data Factory (ADF), Azure Databricks (PySpark), and delivering
+crucial business-ready insights via Power BI.
+- Strong focus on data architecture, monitoring, performance optimization, and maintaining
+reliable production workflows which currently support more than 300 users within the
+company.
+- *Built* and *maintained* conversational analytics solutions using Databricks Genie,
+enabling business users to interact with trusted data products through natural language and
+accelerate self-service insight discovery.
+
+##### Metrology Sub-Function Architect at ASML | 01/2023 – 03/2024
 - *Designed* framework for internal software migration to GitHub, set up CI/CD using
 GitHub Actions and Artifactory, code quality monitoring using [TIOBE TiCS TQI.](https://www.tiobe.com/products/tics/)
 - *Responsible* for group's (~ 50 engineers) MATLAB architecture roadmap, wrote new design
-documents for essential software components, supervised timely reviews, and oversaw
-*stakeholder management.*
+documents for essential software components, supervised timely reviews, and oversaw both both
+technical and non-technical *stakeholder management.*
 
 ##### Senior Metrology Design Engineer at ASML | 01/2022 – 01/2023
 - *Performed* simulations and generated valuable insights using advanced data analysis
