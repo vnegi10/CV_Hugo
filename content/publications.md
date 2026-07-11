@@ -53,7 +53,7 @@ open source love?](https://towardsdatascience.com/visualizing-developer-activity
 - [**Plotting in the Terminal -- An Unconventional Approach to Data Visualization** -
 Who knew Unicode plots could be so much fun?](https://medium.com/geekculture/plotting-in-the-terminal-an-unconventional-approach-to-data-visualization-dd36ec6515d0?source=friends_link&sk=aa85cceda81801a41f5f1514577c1f7e)
 
-- [**Connect to the Bitcoin Network using Julia** - A neat way to access real time
+- [**Connect to the Bitcoin Network using Julia** - A neat way to access real-time
 blockchain data](https://medium.com/geekculture/connect-to-the-bitcoin-network-using-julia-418c76fed393?source=friends_link&sk=fd38b824bc58f6b666c977b5dbbfb94d)
 
 - [**Blockchain Analytics using Julia** - Let’s parse some blocks and find out what
@@ -76,7 +76,7 @@ Python and R](https://towardsdatascience.com/visualizing-covid-19-data-using-jul
 
 ## Blog posts on [Hashnode](https://vnegi.hashnode.dev/)
 
-- [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matter in your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
+- [**How to Compile Your Own Custom Linux Kernel?** - For when it's time to take matters into your own hands](https://vnegi.hashnode.dev/custom-linux-kernel)
 
 - [**Benchmarking code in Julia**](https://vnegi.hashnode.dev/benchmarking-code-in-julia)
 

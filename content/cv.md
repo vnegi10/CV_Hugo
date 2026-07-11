@@ -24,7 +24,7 @@ accelerate self-service insight discovery.
 - *Designed* framework for internal software migration to GitHub, set up CI/CD using
 GitHub Actions and Artifactory, code quality monitoring using [TIOBE TiCS TQI.](https://www.tiobe.com/products/tics/)
 - *Responsible* for group's (~ 50 engineers) MATLAB architecture roadmap, wrote new design
-documents for essential software components, supervised timely reviews, and oversaw both both
+documents for essential software components, supervised timely reviews, and oversaw both
 technical and non-technical *stakeholder management.*
 
 ##### Senior Metrology Design Engineer at ASML | 01/2022 – 01/2023
@@ -32,7 +32,7 @@ technical and non-technical *stakeholder management.*
 techniques to highlight strength of lithography software packages to new customers, leading
 to *business growth* and generating *additional revenue* for ASML.
 - Involved in *coaching* junior engineers, *supervised* team participation in multiple
-hackathons, part of organization committee for 'DUV Innovation Marketplace' on a department
+hackathons, part of the organizing committee for 'DUV Innovation Marketplace' on a department
 level.
 - *Developed* and maintained various internal Julia data analysis and visualization
 packages for the ASML community
@@ -48,7 +48,7 @@ participating in design reviews
 time zones (Singapore, Taiwan, Japan and France)
 
 ##### Eindhoven University of Technology | 06/2014 - 09/2018
-- *Performed* state of the art computational modeling combined with in-house optical
+- *Performed* state-of-the-art computational modeling combined with in-house optical
 experiments to study phase separation in organic thin films during spin-coating
 - *Established* and coordinated external collaboration with research groups in Germany,
 Russia and United States resulting in [multiple publications.](https://www.researchgate.net/profile/Vikas-Negi-2)
@@ -59,7 +59,7 @@ international conferences in Europe (ICSM 2014, Turku; HOPV 2018, Benidorm) and 
 ##### Shell Technology Centre Bangalore | 05/2013 - 02/2014
 - Master’s Thesis: Used Density Functional Theory to study methanation on a cobalt catalyst
 during Fischer-Tropsch synthesis
-- Worked in a *multi-disciplinary* and *cross-functional* team of material scientists,
+- Worked in a *multidisciplinary* and *cross-functional* team of material scientists,
 computational physicists and geologists.
 - Added *significant value* to computational R&D at Shell, received the *highest grade* for
 master’s thesis based on this work.
@@ -67,7 +67,7 @@ master’s thesis based on this work.
 ##### Leibniz Institute for Solid State and Materials Research, Dresden, Germany | 05/2012 - 07/2012
 - Received a *DAAD scholarship* to travel to Germany, and perform cutting-edge experimental
 research in a world-class [laboratory](https://www.ifw-dresden.de/).
-- Learned a novel spectroscopy technique involving high-frequency high-magnetic field electron spin resonance in a short period of two months
+- Learned a novel spectroscopy technique involving high-frequency, high-magnetic-field electron spin resonance in a short period of two months
 
 ---
 
@@ -93,7 +93,7 @@ atomic hydrogen on Cobalt (0001) surface**](http://dr.iiserpune.ac.in:8080/xmlui
 ## SAMPLE DATA ANALYSIS/VISUALIZATION PROJECTS
 
 ##### Analyzing Nextcloud Server Logs using DuckDB [blog](https://medium.com/data-science-collective/analyzing-nextcloud-server-logs-using-duckdb-f0d7fd6c68fd) [code](https://github.com/vnegi10/Nextcloud_log_analysis)
-- Authored a technical article demonstrating how to repair, ingest and analyse large
+- Authored a technical article demonstrating how to repair, ingest and analyze large
 Nextcloud JSON server logs using DuckDB, SQL, Python and Jupyter.
 - Developed queries to detect failed login attempts and trusted-domain errors, profile client
 devices and user agents, and identify potentially suspicious access patterns.
@@ -105,7 +105,7 @@ completing the end-to-end analysis in approximately nine seconds.
 which is a Julia wrapper for the Spotify API.
 - Analyzed Spotify usage data, extracted audio features, visualized their 
 distribution and correlation.
-- Documented results in an easy-to-us, interactive and reproducible [Pluto](https://github.com/fonsp/Pluto.jl)
+- Documented results in an easy-to-use, interactive and reproducible [Pluto](https://github.com/fonsp/Pluto.jl)
 notebook. Article published in Towards Data Science – a medium publication with
 over 600,000 followers
 
@@ -141,7 +141,7 @@ monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.ba
 - Article published in Geek Culture – a medium publication with ~ 30,000 followers
 
 ##### Predicting Gas Consumption using Machine Learning [blog](https://medium.com/@vikas.negi10/predicting-gas-consumption-using-machine-learning-in-julia-92a0441cc8cf) [code](https://github.com/vnegi10/Thermostat_data_analysis)
-- Set up a HTTP server for accessing thermostat data using Docker
+- Set up an HTTP server for accessing thermostat data using Docker
 - Built a simple linear regression model to predict home gas usage based on outside temperature
 
 ##### Interactive Dashboard to Track Decentralized Asset Volume and Prices [blog](https://towardsdatascience.com/interactive-crypto-dashboard-powered-by-julia-fd6f60f23063) [code](https://github.com/vnegi10/CryptoDashApp.jl)
@@ -149,8 +149,8 @@ monitoring data of ~ 235,000 disk drives provided by [Backblaze.](https://www.ba
 asset prices, volume and activity (data from multiple sources) on major exchanges
 around the world.
 - Implemented analysis and visualization of various technical indicators such as
-cumulative and daily returns, MACD, linear regression, Bollinger bands etc.
-- Package has been registered in the Julia general registry (available to everyone
+cumulative and daily returns, MACD, linear regression, Bollinger bands, etc.
+- Package has been registered in the Julia General registry (available to everyone
 around the world), and is maintained with full CI/CD using GitHub Actions and Docker.
 
 ##### Create a Crypto Portfolio Dashboard (Python Guide) [blog](https://www.coingecko.com/learn/crypto-portfolio-dashboard-python) [code](https://github.com/vnegi10/Crypto-return-calculator)
@@ -163,7 +163,7 @@ holdings.
 workflows securely refreshing and deploying the dashboard to GitHub Pages.
 
 ##### CoinbaseProExchange.jl - A Julia wrapper for the Coinbase Pro API [code](https://github.com/vnegi10/CoinbaseProExchange.jl)
-- Built from scratch a new Julia package, that provides REST API access to both
+- Built from scratch a new Julia package that provides REST API access to both
 public/private endpoints of Coinbase Pro.
 - Data is securely fetched, cleaned and transformed into usable types such as
 a DataFrame, which allows for easy filtering, analysis and visualization.
@@ -171,11 +171,11 @@ a DataFrame, which allows for easy filtering, analysis and visualization.
 update using Documenter.jl
 
 ##### BitcoinRPC.jl - A Julia interface to Bitcoin's JSON-RPC API [blog](https://medium.com/geekculture/connect-to-the-bitcoin-network-using-julia-418c76fed393) [code](https://github.com/vnegi10/BitcoinRPC.jl)
-- Developed from scratch a new Julia package, which interfaces with
+- Developed from scratch a new Julia package which interfaces with
 Bitcoin's JSON-RPC API accessible via a locally running node.
 - Implemented making requests in batch mode for faster performance
 while doing on-chain analytics
 - Implemented a caching mechanism to drastically speed-up repeated
 calls to the same function
-- Added visualization support for key blockchain metrics, faster
+- Added visualization support for key blockchain metrics, with faster
 plotting right within the Julia REPL.
