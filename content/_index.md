@@ -1,7 +1,8 @@
 This static website is hosted on the **InterPlanetary File System** or
-[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) via [Fleek](https://fleek.co/hosting/).
+[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/)
+via [Pinata](https://docs.pinata.cloud/files/uploading-files).
 It makes use of the [Anatole](https://github.com/lxndrblz/anatole) theme in combination
-with the [Hugo framework](https://gohugo.io/). I also use an 
+with the [Hugo framework](https://gohugo.io/). I also use an
 [Ethereum Name Service](https://app.ens.domains/name/vikasnegi.eth/details) domain to point
 to this site.
 
